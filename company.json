@@ -1,0 +1,26 @@
+{
+  "full_name": "ЗАО \"Семейная стоматология ПЛАНТИС\"",
+  "UNP": "193403490",
+  "address": "г. Минск, пр-т Дзержинского, 84, пом. 243",
+  "phones": ["+375 29 623-73-18", "+375 (17) 290-20-20"],
+  "emails": ["info@planteeth.by"],
+  "years_in_business": 10,
+  "license": {
+    "number": "32210000067442",
+    "activity": "Медицинская деятельность",
+    "valid_until": "21.05.2026",
+    "status": "Действующая"
+  },
+  "website": "https://planteeth.by/",
+  "services": [
+    "Стоматологическая деятельность",
+    "Лечение зубов",
+    "Восстановление зубов",
+    "Семейная стоматология"
+  ],
+  "verified_sources": [
+    "https://kartoteka.by/unp-193403490",
+    "https://bizinspect.by/inst/5e7bcd2479883b0cf79b6155",
+    "https://normativka.by/lib/unp/193403490"
+  ]
+}
